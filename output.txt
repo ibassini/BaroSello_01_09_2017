@@ -1,0 +1,1 @@
+0,1,2,3,4,Sello,6,7,8,9,Sello,11,12,13,14,BaroSello,16,17,18,19,Sello,21,22,23,24,Sello,26,27,28,29,BaroSello,31,32,33,34,Sello,36,37,38,39,Sello,41,42,43,44,BaroSello,46,47,48,49,Sello,51,52,53,54,Sello,56,57,58,59,BaroSello,61,62,63,64,Sello,66,67,68,69,Sello,71,72,73,74,BaroSello,76,77,78,79,Sello,81,82,83,84,Sello,86,87,88,89,BaroSello,91,92,93,94,Sello,96,97,98,99,Sello 
